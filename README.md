@@ -1,6 +1,6 @@
 # Práticas de Algoritmo e Estrutura de Dados
 
-## Prática 1 - C++: NOÇÕES BÁSICAS 
+## Prática 1 - C++: Noções básicas
 
 Parte 1: Preparação inicial
 
@@ -15,7 +15,7 @@ Parte 5: Trabalhando com o depurador
 Parte 6 (Desafio): Verificando o desempenho de funções inline
 
 
-## Prática 2 - C++: HERANÇA
+## Prática 2 - C++: Herança
 
 Parte 1: Preparação
 
@@ -28,7 +28,7 @@ Parte 4: Trabalhando com métodos virtuais
 Parte 5: Herança múltipla
 
 
-## Prática 3 - C++: TEMPLATES
+## Prática 3 - C++: Templates
 
 Parte 1: Preparação
 
@@ -39,7 +39,7 @@ Parte 3: Trabalhando com Templates de Classes
 Parte 4: Especializando Templates de Classes
 
 
-## Prática 4 - PILHAS, FILAS E LISTAS
+## Prática 4 - Pilhas, filas e listas
 
 Parte 0: Preparação
 
@@ -50,7 +50,7 @@ Parte 2: Trabalhando com Filas
 Parte 3: Trabalhando com Listas
 
 
-## Prática 5 - PILHAS, FILAS E LISTAS COM PONTEIROS
+## Prática 5 - Pilhas, filas e listas com ponteiros
 
 Parte 0: Preparação
 
@@ -63,7 +63,7 @@ Parte 3: Implementando Listas com Ponteiros (Listas Encadeadas)
 Parte 4: Refatore e reorganize o código (Desafio)
 
 
-## Prática 6 - BUSCA BINÁRIA E HASHTABLE
+## Prática 6 - Busca binária e Hashtable
 
 Parte 0: Preparação
 
@@ -72,7 +72,7 @@ Parte 1: Implementando Lista Ordenada e Busca Binária
 Parte 2: Implementando Tabela de Espalhamento (Hashtable)
 
 
-## Prática 7 - ORDENAÇÃO
+## Prática 7 - Ordenação
 
 Parte 0: Preparação
 
@@ -85,7 +85,7 @@ Parte 3: Implementando a junção do MergeSort
 Parte 4: Implementando a partição do QuickSort
 
 
-## Prática 8 - ÁRVORE BINÁRIA DE BUSCA E AVL
+## Prática 8 - Árvore binária de busca e AVL
 
 Parte 0: Preparação
 
@@ -98,7 +98,7 @@ Parte 3: Implementando Rotações na Árvore AVL
 Parte 4: Modificando a estrutura da árvore (Desafio) 
 
 
-## Prática 9 - GRAFOS – INTRODUÇÃO
+## Prática 9 - Grafos - Introdução
 
 Parte 0: Preparação
 
@@ -109,7 +109,7 @@ Parte 2: Testando a conectividade do Grafo
 Parte 3: Melhorando o desempenho (Desafio)
 
 
-## Prática 10 - GRAFOS – BUSCAS E MENOR CAMINHO
+## Prática 10 - Grafos – Busca e Menor caminho
 
 Parte 0: Preparação
 
@@ -120,7 +120,7 @@ Parte 2: Implementando Busca em Largura
 Parte 3: Extraindo o Menor Caminho
 
 
-## Prática 11 - BACKTRACKING E DIVIDIR P/ CONQUISTAR
+## Prática 11 - Backtracking e Dividir p/ conquistar
 
 Parte 0: Preparação
 

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	  <storageModule moduleId="org.eclipse.cdt.core.settings">
+		    <cconfiguration id="cdt.managedbuild.toolchain.gnu.mingw.base.1200579398">
+			      <storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider"
+                        id="cdt.managedbuild.toolchain.gnu.mingw.base.1200579398"
+                        moduleId="org.eclipse.cdt.core.settings"
+                        name="Default">
+				        <externalSettings/>
+				        <extensions>
+					          <extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+					          <extension id="org.eclipse.cdt.core.GASErrorParser"
+                          point="org.eclipse.cdt.core.ErrorParser"/>
+					          <extension id="org.eclipse.cdt.core.GLDErrorParser"
+                          point="org.eclipse.cdt.core.ErrorParser"/>
+					          <extension id="org.eclipse.cdt.core.GCCErrorParser"
+                          point="org.eclipse.cdt.core.ErrorParser"/>
+				        </extensions>
+			      </storageModule>
+			      <storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				        <configuration buildProperties="" id="cdt.managedbuild.toolchain.gnu.mingw.base.1200579398"
+                           name="Default"
+                           parent="org.eclipse.cdt.build.core.emptycfg">
+					          <folderInfo id="cdt.managedbuild.toolchain.gnu.mingw.base.1200579398.993844816" name="/"
+                           resourcePath="">
+						            <toolChain id="cdt.managedbuild.toolchain.gnu.mingw.base.1130681030"
+                             name="cdt.managedbuild.toolchain.gnu.mingw.base"
+                             superClass="cdt.managedbuild.toolchain.gnu.mingw.base">
+							              <targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.PE"
+                                     id="cdt.managedbuild.target.gnu.platform.mingw.base.1297891663"
+                                     name="Debug Platform"
+                                     osList="win32"
+                                     superClass="cdt.managedbuild.target.gnu.platform.mingw.base"/>
+							              <builder buildPath="${workspace_loc:/Pratica01_parte3_passo4}/Default"
+                              id="cdt.managedbuild.tool.gnu.builder.mingw.base.861771773"
+                              managedBuildOn="false"
+                              name="CDT Internal Builder.Default"
+                              superClass="cdt.managedbuild.tool.gnu.builder.mingw.base"/>
+							              <tool id="cdt.managedbuild.tool.gnu.assembler.mingw.base.507249761"
+                           name="GCC Assembler"
+                           superClass="cdt.managedbuild.tool.gnu.assembler.mingw.base"/>
+							              <tool id="cdt.managedbuild.tool.gnu.archiver.mingw.base.1585160759"
+                           name="GCC Archiver"
+                           superClass="cdt.managedbuild.tool.gnu.archiver.mingw.base"/>
+							              <tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base.1518619140"
+                           name="GCC C++ Compiler"
+                           superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base"/>
+							              <tool id="cdt.managedbuild.tool.gnu.c.compiler.mingw.base.1091614361"
+                           name="GCC C Compiler"
+                           superClass="cdt.managedbuild.tool.gnu.c.compiler.mingw.base"/>
+							              <tool id="cdt.managedbuild.tool.gnu.c.linker.mingw.base.1243194942"
+                           name="MinGW C Linker"
+                           superClass="cdt.managedbuild.tool.gnu.c.linker.mingw.base"/>
+							              <tool id="cdt.managedbuild.tool.gnu.cpp.linker.mingw.base.688251892"
+                           name="MinGW C++ Linker"
+                           superClass="cdt.managedbuild.tool.gnu.cpp.linker.mingw.base"/>
+						            </toolChain>
+					          </folderInfo>
+				        </configuration>
+			      </storageModule>
+			      <storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		    </cconfiguration>
+	  </storageModule>
+	  <storageModule moduleId="scannerConfiguration">
+		    <autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		    <scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.mingw.exe.release.141851701;cdt.managedbuild.config.gnu.mingw.exe.release.141851701.;cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.release.484278059;cdt.managedbuild.tool.gnu.cpp.compiler.input.527603915">
+			      <autodiscovery enabled="true" problemReportingEnabled="true"
+                        selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+		    </scannerConfigBuildInfo>
+		    <scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.mingw.exe.debug.409725648;cdt.managedbuild.config.gnu.mingw.exe.debug.409725648.;cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.108570856;cdt.managedbuild.tool.gnu.cpp.compiler.input.802293177">
+			      <autodiscovery enabled="true" problemReportingEnabled="true"
+                        selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+		    </scannerConfigBuildInfo>
+		    <scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.mingw.exe.release.141851701;cdt.managedbuild.config.gnu.mingw.exe.release.141851701.;cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.release.1455986139;cdt.managedbuild.tool.gnu.c.compiler.input.231014172">
+			      <autodiscovery enabled="true" problemReportingEnabled="true"
+                        selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+		    </scannerConfigBuildInfo>
+		    <scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.mingw.exe.debug.409725648;cdt.managedbuild.config.gnu.mingw.exe.debug.409725648.;cdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.282861466;cdt.managedbuild.tool.gnu.c.compiler.input.1316337997">
+			      <autodiscovery enabled="true" problemReportingEnabled="true"
+                        selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+		    </scannerConfigBuildInfo>
+	  </storageModule>
+	  <storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		    <project id="Pratica01_parte3_passo4.null.108960515" name="Pratica01_parte3_passo4"/>
+	  </storageModule>
+	  <storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>
